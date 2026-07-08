@@ -36,4 +36,5 @@ slides/                 presentation slides
 ```
 
 ## AI Usage Disclaimer
-Parts of the project structure and drafting were supported by OpenAI's ChatGPT. All content, code, and results should be reviewed and validated by me before submission.
+Parts of the project structure and drafting were supported by OpenAI's ChatGPT. All
+content produced with AI assistance has been carefully reviewed, edited, and validated by me. I take full responsibility for the final content and its accuracy, relevance, and academic integrity.
