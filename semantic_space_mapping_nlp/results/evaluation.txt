@@ -1,3 +1,0 @@
-Adjusted Rand Index: 0.5222
-Normalized Mutual Information: 0.7073
-Silhouette Score: 0.0250
