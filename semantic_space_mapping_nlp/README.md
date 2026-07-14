@@ -1,40 +1,20 @@
 # Semantic Space Mapping in NLP
 
-This is a Natural Language Processing final project based on **P15: Cartographers of the Invisible**.
-
 ## Research Question
-Can text embeddings automatically organize concepts into meaningful semantic groups?
+Can pretrained sentence embeddings automatically organize concepts into meaningful semantic groups?
 
 ## Method
-The project uses:
-- a small concept dataset with semantic categories
-- TF-IDF text embeddings based on concept descriptions
+- Dataset of 50 concepts in five semantic categories
+- Pretrained Sentence-BERT (`all-MiniLM-L6-v2`)
+- Normalized embeddings
+- Pairwise cosine similarity
 - K-Means clustering
 - PCA visualization
-- clustering evaluation metrics
+- ARI, NMI and Silhouette evaluation
 
-## How to Run
-
+## Run
 ```bash
 pip install -r requirements.txt
 python src/main.py
 ```
-
-The outputs will be saved in the `results/` folder:
-- `clusters.csv`
-- `semantic_map.png`
-- `evaluation.txt`
-
-## Repository Structure
-
-```text
-data/concepts.csv       input dataset
-src/main.py             full experiment code
-results/                generated outputs
-docs/                   project report
-slides/                 presentation slides
-```
-
-## AI Usage Disclaimer
-Parts of the project structure and drafting were supported by OpenAI's ChatGPT. All
-content produced with AI assistance has been carefully reviewed, edited, and validated by me. I take full responsibility for the final content and its accuracy, relevance, and academic integrity.
+Outputs are written to the results folder.
