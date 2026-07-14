@@ -1,0 +1,51 @@
+concept,category,description,cluster
+football,sport,a team sport played with a ball where players score goals,2
+basketball,sport,a team sport where players throw a ball through a hoop,2
+tennis,sport,a racket sport played by hitting a ball over a net,2
+cricket,sport,a bat and ball sport involving wickets runs and fielding,2
+swimming,sport,a water sport where athletes move through a pool using strokes,2
+running,sport,an athletic activity focused on speed endurance and races,2
+volleyball,sport,a team sport where players hit a ball over a high net,2
+boxing,sport,a combat sport involving punches rounds and opponents,2
+cycling,sport,a sport involving bicycles races roads and endurance,2
+hockey,sport,a team sport using sticks to move a puck or ball and score goals,2
+pizza,food,an Italian food with dough cheese tomato sauce and toppings,0
+pasta,food,an Italian food made from wheat served with sauces,0
+burger,food,a fast food sandwich with bread meat cheese and vegetables,0
+rice,food,a staple grain commonly eaten with curries vegetables or meat,0
+chocolate,food,a sweet food made from cocoa often used in desserts,0
+salad,food,a dish made with vegetables greens and dressing,0
+soup,food,a liquid food cooked with vegetables meat or lentils,0
+bread,food,a baked food made from flour water and yeast,0
+cheese,food,a dairy food made from milk often used in meals,0
+coffee,food,a hot drink made from roasted beans and caffeine,0
+doctor,profession,a medical professional who diagnoses and treats patients,4
+teacher,profession,a professional who educates students and explains subjects,4
+engineer,profession,a professional who designs builds and solves technical problems,4
+lawyer,profession,a legal professional who advises clients and works with law,4
+chef,profession,a professional cook who prepares food in kitchens and restaurants,4
+architect,profession,a professional who designs buildings structures and spaces,4
+nurse,profession,a healthcare professional who supports doctors and cares for patients,4
+journalist,profession,a professional who writes reports and investigates news stories,4
+programmer,profession,a technology professional who writes code and builds software,4
+accountant,profession,a professional who manages financial records budgets and taxes,4
+happiness,emotion,a positive emotional state involving joy satisfaction and pleasure,1
+sadness,emotion,a negative emotional state involving sorrow loss and unhappiness,1
+anger,emotion,a strong emotion involving irritation conflict and frustration,1
+fear,emotion,an emotion caused by danger threat uncertainty or risk,1
+surprise,emotion,an emotion caused by unexpected events or new information,1
+disgust,emotion,an emotion of dislike caused by unpleasant things or situations,1
+love,emotion,a strong positive feeling of affection attachment and care,1
+pride,emotion,a feeling of satisfaction from achievement identity or success,1
+anxiety,emotion,a worried emotional state involving stress tension and uncertainty,1
+excitement,emotion,an energetic emotional state involving enthusiasm and anticipation,1
+computer,technology,an electronic device used for processing information and running software,3
+smartphone,technology,a mobile device used for communication apps internet and media,3
+robot,technology,a machine designed to perform tasks automatically or with intelligence,3
+internet,technology,a global network connecting computers websites and digital services,3
+algorithm,technology,a step by step computational procedure used to solve problems,3
+database,technology,a structured collection of data stored and queried by software,3
+software,technology,programs and applications that run on computers and devices,3
+sensor,technology,a device that detects physical signals and sends measurements,3
+network,technology,a system of connected devices that exchange data and information,3
+cloud,technology,remote computing infrastructure for storing and processing data online,3
